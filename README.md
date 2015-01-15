@@ -1,1 +1,1 @@
-Content for <http://minote.net> website
+content for iOS minotes app product website @ <http://minote.net>
